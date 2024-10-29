@@ -4,3 +4,5 @@
 [Макет дизайна](https://www.figma.com/file/XoMtOCKymrEiD7mh3DTndG?node-id=0-1&node-type=canvas&t=V2pn4xjp7kXFWdSF-0&type=design&mode=design)
 
 В системе реализована интеграция нескольких ключевых веб-приложений и серверного приложения. Система предназначена для упрощения процесса управления санаторием. Она включает в себя три основных веб-приложения: Администратор, Пациент, Доктор.
+
+[C4 Container](https://github.com/biniess/uni/blob/main/doc/Контейнеры.jpg)
