@@ -33,4 +33,5 @@ Clean Architecture состоит из нескольких принципов, 
 # Пользовательский интерфейс
 
 User flow диаграммы
+
 [Пациент](https://github.com/biniess/uni/blob/main/doc/User%20flow%20%D0%BF%D0%B0%D1%86%D0%B8%D0%B5%D0%BD%D1%82.png)
