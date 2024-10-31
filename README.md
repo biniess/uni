@@ -37,3 +37,5 @@ User flow диаграммы
 [Пациент](https://github.com/biniess/uni/blob/main/doc/User%20flow%20%D0%BF%D0%B0%D1%86%D0%B8%D0%B5%D0%BD%D1%82.png)
 
 [Врач](https://github.com/biniess/uni/blob/main/doc/User%20flow%20%D0%B2%D1%80%D0%B0%D1%87.png)
+
+[Администратор](https://github.com/biniess/uni/blob/main/doc/User%20flow%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80.png)
